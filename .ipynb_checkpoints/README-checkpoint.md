@@ -3,63 +3,7 @@
 
 The aim of my repository is to give students learning linear algebra (in special those doing the Imperial College London Mathematics for Machine Learning course) some helpful resources and somewhere to guide then in the practice exercises available at the course.
 
-Available notes and exercises resolutions:
-
-- Week 1: 
-
-  > Solving simultaneous equations
-
-- Week 2:
-
-  > Modulus e inner products
-  >
-  > Cosine e dot products
-  >
-  > Scalar and vector projections
-  >
-  > Basis change
-  >
-  > Linear dependence
-
-- Week 3: 
-
-  > Matrix multiplication
-  >
-  > Matrix properties
-  >
-  > Identity matrix 
-  >
-  > Matrix transformation
-  >
-  > Solving simultaneous equations through matrix method
-  >
-  > Inverse matrix
-
-- Week 4: 
-
-  > Einstein summation
-  >
-  > Symmetry of the dot product
-  >
-  > Notes on non-square matrix multiplication
-  >
-  > Changing basis in matrices
-  >
-  > Transformation in changed basis
-  >
-  > Orthogonal matrices
-  >
-  > Gram-schmidt process
-
-- Week 5:
-
-  > Eigenvalues
-  >
-  > Eigenvectors
-  >
-  > Special eigen-cases
-  >
-  > Changing to the eigenbasis
+Please go to https://www.renatochaz.com/study/mat_ml_linear_algebra/ to check the list of exercises available and resources to complement the classes.
 
 **Basic course description (From Imperial College London course)**
 *In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. Finally  we look at how to use these to do fun things with datasets - like how to rotate images of faces and how to extract eigenvectors to look at how the Pagerank algorithm works. Since we're aiming at data-driven applications, we'll be implementing some of these ideas in code, not just on pencil and paper. Towards the end of the course, you'll write code blocks and encounter Jupyter notebooks in Python, but don't worry, these will be quite short, focused on the concepts, and will guide you through if you’ve not coded before. At the end of this course you will have an intuitive understanding of vectors and matrices that will help you bridge the gap into linear algebra problems, and how to apply these concepts to machine learning.*
