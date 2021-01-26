@@ -1,6 +1,8 @@
 # Mathematics for Machine Learning
 **In no way graded assignments  and exams needed to certificate will be shared due to the Coursera honor code**
 
+**Please note that sometimes github doesn't load the .ipynb file or use a incorrect diagram for a matrix, feel free to download it and use in your own reader**
+
 The aim of my repository is to give students learning the basis math for machine learning (in special those doing the Imperial College London Mathematics for Machine Learning course) some helpful resources and somewhere to guide then in the practice exercises available at the course.
 
 This repository covers the following topics:
