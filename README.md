@@ -97,7 +97,13 @@ This repository covers the following topics:
   >
   > Power rule;
   >
-  > Some special cases derivative;
+  > Special cases derivative;
+  >
+  > Product rule;
+  >
+  > Chain rule;
+  >
+  > All around application.
   >
   > 
 
