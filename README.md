@@ -31,11 +31,11 @@ This repository covers the following topics:
 
 # Linear Algebra
 
-- Week 1: 
+- [Week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week1.ipynb): 
 
   > Solving simultaneous equations
 
-- Week 2:
+- [Week 2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/Week2.ipynb):
 
   > Modulus e inner products
   >
@@ -47,7 +47,7 @@ This repository covers the following topics:
   >
   > Linear dependence
 
-- Week 3: 
+- [Week 3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week3.ipynb): 
 
   > Matrix multiplication
   >
@@ -61,7 +61,7 @@ This repository covers the following topics:
   >
   > Inverse matrix
 
-- Week 4: 
+- [Week 4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/Week4.ipynb): 
 
   > Einstein summation
   >
@@ -77,7 +77,7 @@ This repository covers the following topics:
   >
   > Gram-schmidt process
 
-- Week 5:
+- [Week 5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/week5.ipynb):
 
   > Eigenvalues
   >
@@ -91,7 +91,7 @@ This repository covers the following topics:
 
 # Multivariate Calculus
 
-- calculus_week 1: 
+- [calculus_week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb): 
 
   > Differentiation and definition of a derivative;
   >
