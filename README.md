@@ -91,7 +91,7 @@ This repository covers the following topics:
 
 # Multivariate Calculus
 
-- [calculus_week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb): 
+- [Week1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb): 
 
   > Differentiation and definition of a derivative;
   >
@@ -109,6 +109,20 @@ This repository covers the following topics:
   >
   > 
 
-- calculus_week 2:
+- [Week2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week2.ipynb):
+
+  > Dependent and independent variables;
+  >
+  > Extension to multivariate differentiation;
+  >
+  > Multivariate complex example;
+  >
+  > Multivariate partial differentiation;
+  >
+  > Jacobian vector;
+  >
+  > Hessian matrix.
+
+- [Week3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week3.ipynb):
 
   > ...
