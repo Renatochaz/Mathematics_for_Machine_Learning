@@ -125,4 +125,8 @@ This repository covers the following topics:
 
 - [Week3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week3.ipynb):
 
-  > ...
+  > Multivariate chain rule;
+  >
+  > Neural network in matrix form;
+  >
+  > Applied NN with the chain rule
