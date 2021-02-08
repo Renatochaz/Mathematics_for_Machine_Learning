@@ -130,3 +130,32 @@ This repository covers the following topics:
   > Neural network in matrix form;
   >
   > Applied NN with the chain rule
+  
+  - [Week4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week4.ipynb):
+
+  > Why approximate function;
+  >
+  > Power series;
+  >
+  > Maclaurin series;
+  >
+  > Taylor series;
+  >
+  > Linearisation;
+  >
+  > Multivariate taylor series.
+  
+  - [Week5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week5.ipynb):
+
+  > One dimensional newton-raphson;
+  >
+  > Gradient descent;
+  >
+  > Constrained optimisation.
+  
+  - Week 6 not provided.
+  
+  # Principal Component Analysis
+  
+  - Week 1
+  ...
