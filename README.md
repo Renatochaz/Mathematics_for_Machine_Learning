@@ -131,7 +131,7 @@ This repository covers the following topics:
   >
   > Applied NN with the chain rule
   
-  - [Week4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week4.ipynb):
+- [Week4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week4.ipynb):
 
   > Why approximate function;
   >
@@ -145,7 +145,7 @@ This repository covers the following topics:
   >
   > Multivariate taylor series.
   
-  - [Week5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week5.ipynb):
+- [Week5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week5.ipynb):
 
   > One dimensional newton-raphson;
   >
@@ -153,9 +153,9 @@ This repository covers the following topics:
   >
   > Constrained optimisation.
   
-  - Week 6 not provided.
+- Week 6 not provided.
   
-  # Principal Component Analysis
+# Principal Component Analysis
   
-  - Week 1
+- Week 1
   ...
