@@ -157,5 +157,16 @@ This repository covers the following topics:
   
 # Principal Component Analysis
   
-- Week 1
-  ...
+- [Week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week1.ipynb):
+  > Mean of a dataset;
+  >
+  > One dimensional variance;
+  >
+  > Covariance matrix;
+  >
+  > Linear transformation properties for the mean, variance and covariance;
+  >
+  > Numpy tutorial (from the course lab);
+  >
+  > A little gift for you, if you come this far :\)
+- Week 2
