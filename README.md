@@ -169,4 +169,26 @@ This repository covers the following topics:
   > Numpy tutorial (from the course lab);
   >
   > A little gift for you, if you come this far :\)
-- Week 2
+- [Week 2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week2.ipynb):
+  > Dot product, angles and distance between vectors;
+  >
+  > Inner products;
+  >
+  > Inner products and length of vectors;
+  >
+  > Inner products, orthogonality and angle between vectors.
+- [Week 3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week3.ipynb):
+  > Projections onto 1-D subspace;
+  >
+  > Projections in higher dimensions (N-D subspace).
+- [Week 4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/pca_week4.ipynb):
+  > PCA objective and key ideas;
+  >
+  > Coordinates of projected data;
+  >
+  > Derivation of the average square reconstruction error;
+  >
+  > Finding the basis vectors that spans the principal subspace;
+  >
+  > Summary of key equations.
+  > My personal note on how to create a PCA function (to help in the final assignment).
